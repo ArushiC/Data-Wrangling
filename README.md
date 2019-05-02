@@ -1,7 +1,7 @@
 # Data-Wrangling
 Data assessment and cleaning steps applied to an online job posting data set
 
-##Project Overview
+## Project Overview
 In this project, we have explored the 3 key steps in Data Wrangling:
 1. Gather data
 2. Assess data
@@ -12,7 +12,7 @@ Finally the dataset is tested using assert statements to make sure the operation
 
 This doesn't demonestrate all the possible data issues, but shows how to approach the most common data cleaning steps.
 
-##Input File
+## Input File
 Data columns (total 24 columns):
 jobpost
 date
