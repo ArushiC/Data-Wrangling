@@ -1,5 +1,5 @@
 # Data-Wrangling
-Data assessment and cleaning steps applied to an online job posting data set
+Data assessment and cleaning steps applied to multiple data sets, one of those being flat files from a online job posting and the other one being Rotten Tomato movie data set with XML and text files.
 
 ## Project Overview
 In this project, we have explored the 3 key steps in Data Wrangling:
@@ -7,6 +7,7 @@ In this project, we have explored the 3 key steps in Data Wrangling:
 2. Assess data
 3. Clean data 
 
+### Job posting data set:
 The dataset has 19001 job postings that are assessed to identify the key issues with the dataset. These have then been converted from the assess step into defined problems, and under cleaning have been translated to sophisticated code to fix these problems.
 Finally the dataset is tested using assert statements to make sure the operations worked.
 
@@ -39,3 +40,4 @@ Year: Year of the announcement (derived from the field date).  <br>
 Month: Month of the announcement (derived from the field date).  <br>
 IT: TRUE if the job is an IT job. This variable is created by a simple search of IT job titles within the "Title" column. <br>
 
+### Rotten Tomato movie data set
